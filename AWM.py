@@ -1116,7 +1116,7 @@ def free2(uid,pwx,tl):
 
         loop+=1
 
-        sys.stdout.write(f'\r\33[1;37m[AWM 🔥] [%s] \33[1;97m[OK:%s{mirwais 2}CP:%s]'%(loop,len(ok),len(cp))), 
+        sys.stdout.write(f'\r\33[1;37m[AWM 🔥] [%s] \33[1;97m[OK:%s{mirwais2}CP:%s]'%(loop,len(ok),len(cp))), 
 
         sys.stdout.flush()
 
